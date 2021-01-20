@@ -1,3 +1,19 @@
+# Kind cluster
+
+Create a local k8s cluster using kind.
+
+The following services is part of this cluster:
+
+* fission
+
+* k8s dashboard
+
+* helm3
+
+## Create a new cluster
+
+./kind-with-registry.sh <NAME>
+
 ## Start dashboard proxy
 
 kubectl proxy
