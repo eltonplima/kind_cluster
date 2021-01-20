@@ -167,6 +167,6 @@ install_helm
 #install_ambassador
 install_k8s_dashboard
 install_fission
-test_fission
+#test_fission
 
 echo "kubectl proxy"
