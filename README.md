@@ -12,7 +12,7 @@ The following services is part of this cluster:
 
 ## Create a new cluster
 
-./kind-with-registry.sh <NAME>
+./create-cluster.sh <NAME>
 
 ## Start dashboard proxy
 
